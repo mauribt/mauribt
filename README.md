@@ -1,12 +1,10 @@
-<p align="center">
-<img src="https://3rdworldgeeks.files.wordpress.com/2020/10/uzaki-chan.gif" width="539" height="539"/>
-</p>
 
-# 🖤MeliodasBot06💥
+
+# 𝘮𝘢𝘶𝘳𝘪𝘣𝘵
 
 #### WhatsApp Bot
 
-## 🔥MΣᄂIӨDΛƧ❤
+## 𝘮𝘢𝘶𝘳𝘪
 
 
 ### TERMUX ✔
@@ -23,4 +21,4 @@
 ```
 
 ---------
-## ❤Gracias por usar🖤 ⚜🟢MeliodasBot^^❤✅
+## si
