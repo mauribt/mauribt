@@ -11,11 +11,11 @@
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
-> git clone https://github.com/MeliodasJAJA/MeliodasBot06
-> cd MeliodasBot06
+> git clone https://github.com/mauribt/mauribt
+> cd mauribt
 > bash install.sh 
 ```
-#### Run👌👍
+#### Run
 ```bash
 > node index.js
 ```
