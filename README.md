@@ -4,8 +4,6 @@
 
 #### WhatsApp Bot
 
-## 𝘮𝘢𝘶𝘳𝘪
-
 
 ### TERMUX 
 ```bash
