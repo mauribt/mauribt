@@ -7,7 +7,7 @@
 ## 𝘮𝘢𝘶𝘳𝘪
 
 
-### TERMUX ✔
+### TERMUX 
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
